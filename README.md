@@ -1,23 +1,32 @@
-🧠 Mat | Data Analyst | IT Support | AI Explorer
-Hi there! I'm Mat — a results-driven tech enthusiast with a strong background in IT support, incident & problem management, and a growing passion for data science, automation, and AI. I love solving real-world problems using code, data, and intuitive design.
+👋 Hi, I’m Mat
+Data Scientist | Data Analyst | AI Explorer
 
-🔧 Tech & Tools I Use
-Languages: Python, SQL
+Welcome to my GitHub profile. I’m a data-driven professional focused on extracting insights from data, building analytical solutions, and exploring applied AI. I enjoy working across the full data workflow — from data cleaning and analysis to visualization and lightweight web deployment.
 
-Data & BI: Power BI, Excel, Pandas, Tableau
+My work reflects a strong interest in practical, real-world applications of data science and analytics, with an emphasis on clarity, impact, and continuous learning.
 
-Web Dev: HTML, CSS, Bootstrap, Tailwind
+🧠 Core Skills
+Programming & Querying
 
-AI & ML: Prompt Engineering, OpenAI APIs
+Python
 
-Other Tools: Git, VS Code, Jupyter, Canva
+SQL
 
-🧩 Projects & Work in Progress
-🔍 Incident Tracker Dashboard – Built with Power BI for real-time IT incident insights
+Data Analysis & Visualization
 
-📊 Tree Carbon Calculator – A CO₂ estimator based on species, age & location
+Pandas
 
-🏠 McCharlie Real Estate Website – Branded & professional property site using HTML, CSS
+Power BI
+
+Excel
+
+Tableau
+
+AI & Applied ML
+
+Prompt Engineering
+
+OpenAI APIs
 
 
 
