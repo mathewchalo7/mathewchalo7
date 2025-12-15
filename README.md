@@ -1,9 +1,9 @@
 👋 Hi, I’m Mat
 Data Scientist | Data Analyst | AI Explorer
 
-Welcome to my GitHub profile. I’m a data-driven professional focused on extracting insights from data, building analytical solutions, and exploring applied AI. I enjoy working across the full data workflow — from data cleaning and analysis to visualization and lightweight web deployment.
+I am a Master’s student in Data Science with a strong academic foundation in Mathematics and Computer Science, and hands-on experience delivering data science and analytics projects with real-world impact. I currently work within Incident and Problem Management, where I apply data-driven thinking to uncover trends, improve processes, and support informed decision-making.
 
-My work reflects a strong interest in practical, real-world applications of data science and analytics, with an emphasis on clarity, impact, and continuous learning.
+My interests span the full data science lifecycle - data acquisition, cleaning, exploratory analysis, modeling, and visualization - with a growing focus on applied machine learning and AI-powered solutions. I value clarity, rigor, and practical relevance in everything I build.
 
 🧠 Core Skills
 Programming & Querying
@@ -22,7 +22,7 @@ Excel
 
 Tableau
 
-AI & Applied ML
+AI & Applied Machine Learning
 
 Prompt Engineering
 
